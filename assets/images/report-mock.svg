@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1921px" height="961px" viewBox="0 0 1921 961" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 25</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.5" y="0" width="1920" height="961"></rect>
+        <linearGradient x1="50%" y1="0%" x2="28.1930829%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFB8BB" offset="0%"></stop>
+            <stop stop-color="#FFB6B9" offset="28.7874789%"></stop>
+            <stop stop-color="#FF8185" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-4" cx="32" cy="32" r="32"></circle>
+        <filter x="-71.9%" y="-68.8%" width="243.8%" height="243.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0892701049 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(1.000000, -989.000000)">
+            <g id="Group-25" transform="translate(-1.000000, 989.000000)">
+                <g id="Group-14">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#0096FF" xlink:href="#path-1"></use>
+                    <g id="Oval-2" mask="url(#mask-2)">
+                        <g transform="translate(-451.000000, 30.000000)" id="Oval-3">
+                            <g>
+                                <ellipse id="Oval" fill="#D8D8D8" cx="451" cy="450.5" rx="450" ry="450.5"></ellipse>
+                                <path d="M900.5,450.5 C900.5,699.30428 699.028137,901 450.5,901 C201.971863,901 0.5,699.30428 0.5,450.5 L0.5,450.5 Z" id="Combined-Shape" fill="#FFDB00"></path>
+                                <path d="M901.5,0 C901.5,248.80428 700.028137,450.5 451.5,450.5 C202.971863,450.5 1.5,248.80428 1.5,0 L1.5,0 Z" id="Combined-Shape" fill="#FFB4C4" transform="translate(451.500000, 225.250000) scale(-1, -1) translate(-451.500000, -225.250000) "></path>
+                            </g>
+                        </g>
+                    </g>
+                    <rect id="Rectangle" fill="url(#linearGradient-3)" mask="url(#mask-2)" x="1306.5" y="0" width="615" height="901"></rect>
+                    <g id="Group-27" mask="url(#mask-2)">
+                        <g transform="translate(776.500000, 142.157778)">
+                            <path d="M26,1.13686838e-13 L1498,1.13686838e-13 C1500.76142,1.13179572e-13 1503,2.23857625 1503,5 L1503,1069.19222 C1503,1071.95365 1500.76142,1074.19222 1498,1074.19222 L5,1074.19222 C2.23857625,1074.19222 3.38176876e-16,1071.95365 0,1069.19222 L0,26 C-1.75851975e-15,11.6405965 11.6405965,1.19877331e-13 26,1.13686838e-13 Z" id="Rectangle" fill="#FFFFFF"></path>
+                            <g id="Group-15" stroke-width="1" fill="none" transform="translate(0.500000, 39.842222)">
+                                <circle id="Oval" fill="#F95E5E" cx="58" cy="7" r="7"></circle>
+                                <circle id="Oval" fill="#FBD230" cx="88" cy="7" r="7"></circle>
+                                <circle id="Oval" fill="#18D96A" cx="118" cy="7" r="7"></circle>
+                                <line x1="0.5" y1="50" x2="1144.5" y2="50" id="Line" stroke="#979797" stroke-width="2" opacity="0.381184896" stroke-linecap="square"></line>
+                            </g>
+                            <g id="Group-26" stroke-width="1" fill="none" transform="translate(177.000000, 197.842222)">
+                                <g id="Group-16">
+                                    <text id="Annual-Sales-Report" font-family="Poppins-ExtraBold, Poppins ExtraBold" font-size="33.6" font-weight="600" fill="#333333">
+                                        <tspan x="1.0784" y="115">Annual Sales Report</tspan>
+                                    </text>
+                                    <path d="M59.8985363,456.00991 C102.512915,433.977558 63.9757226,456.354366 123.643067,403.991197 C153.492045,377.796181 209.368499,339.974835 250.375486,338.015994 C276.618132,336.762424 285.418125,334.899654 305.123228,347.177803 C320.061241,356.485603 306.096138,350.654527 324.464251,364.402003 C343.389697,378.566611 323.975463,347.010312 352.191092,338.084533 C362.327074,334.878099 394.798425,325.432125 400.670035,318.741818 C433.549485,281.277884 493.383351,289.608546 544.48135,272.743197 C587.693324,258.4807 654.25802,178.405459 700.633496,187.062571 C734.052196,193.300986 795.063005,421.790189 813.498536,442.858503" id="Path-3" stroke="#2700FF" stroke-width="3.2" fill-opacity="0.0574191434" fill="#2700FF" opacity="0.600000024"></path>
+                                    <text id="0" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                        <tspan x="0.698536308" y="453.2">0</tspan>
+                                    </text>
+                                    <g id="Group-13" transform="translate(0.800000, 0.000000)">
+                                        <rect id="Rectangle" fill="#002BFF" x="0" y="1.13686838e-13" width="147.2" height="52.8" rx="4"></rect>
+                                        <text id="Print-Report" font-family="CircularStd-Black, Circular Std" font-size="16.8" font-weight="700" fill="#FFFFFF">
+                                            <tspan x="25.6" y="33">Print Report</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <g id="Group-17" transform="translate(659.200000, 158.800000)">
+                                    <g id="Oval">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                        <use fill-opacity="0.2401934" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                    </g>
+                                    <circle id="Oval" stroke="#7E66FF" stroke-width="0.8" fill="#7E66FF" cx="32" cy="32" r="13.2"></circle>
+                                </g>
+                                <text id="Jan" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                    <tspan x="52" y="505.2">Jan</tspan>
+                                </text>
+                                <text id="Feb" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                    <tspan x="153.6" y="505.2">Feb</tspan>
+                                </text>
+                                <text id="Mar" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                    <tspan x="256" y="505.2">Mar</tspan>
+                                </text>
+                                <text id="Apr" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                    <tspan x="361.6" y="505.2">Apr</tspan>
+                                </text>
+                                <text id="May" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                    <tspan x="464" y="505.2">May</tspan>
+                                </text>
+                                <text id="Jun" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                    <tspan x="573.6" y="505.2">Jun</tspan>
+                                </text>
+                                <text id="Jul" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                    <tspan x="676" y="505.2">Jul</tspan>
+                                </text>
+                                <text id="Aug" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                    <tspan x="772" y="505.2">Aug</tspan>
+                                </text>
+                                <text id="20" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                    <tspan x="0.8" y="390">20</tspan>
+                                </text>
+                                <text id="40" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                    <tspan x="0.8" y="326.8">40</tspan>
+                                </text>
+                                <text id="60" font-family="CircularAir-Light, Circular Air" font-size="16" font-weight="300" fill="#BBBBBB">
+                                    <tspan x="0.8" y="263.6">60</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

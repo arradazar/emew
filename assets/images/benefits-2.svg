@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="47px" viewBox="0 0 40 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="75.3214321%" y2="132.909225%" id="linearGradient-1">
+            <stop stop-color="#7C9AE5" offset="0%"></stop>
+            <stop stop-color="#5955C4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pie-chart">
+            <path d="M15,0 L40,0 L40,0 L40,32 C40,40.2842712 33.2842712,47 25,47 L0,47 L0,47 L0,15 C-1.01453063e-15,6.71572875 6.71572875,1.52179594e-15 15,0 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+            <path d="M30.21,26.89 C28.4598492,31.028883 24.1638237,33.4920434 19.7077726,32.9115357 C15.2517216,32.3310281 11.7301428,28.8494369 11.0987871,24.4003055 C10.4674314,19.9511741 12.8813727,15.6273007 17,13.83" id="Path" stroke="#FFFFFF" stroke-width="2" fill-opacity="0.35" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M31,23 C31,20.3478351 29.9464316,17.804296 28.0710678,15.9289322 C26.195704,14.0535684 23.6521649,13 21,13 L21,23 L31,23 Z" id="Path" stroke="#FFFFFF" stroke-width="2" fill-opacity="0.35" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
