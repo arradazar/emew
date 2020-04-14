@@ -24,10 +24,18 @@ Please let me know if you have questions/clarifications.
 
 Looking forward to receiving your output by the end of tomorrow. If you have a duty with your current job, I will understand a delay in submission.
 
-# EMEW Labs Deliverables
+# EMEW Labs Deliverables Directory
 
 # Logo (See both graphic and text option)
 `/designs/svg/` or `/designs/png/`
 
 # Landing Page
 `/views/index.html`
+
+# CSS
+`/assets/css/`
+
+# Media assets (mostly rendered in svg)
+`/assets/images/`
+
+>Note: All vectors or images done in this page were maded by yours truly. including the image in the testimonial
