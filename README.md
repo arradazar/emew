@@ -23,7 +23,3 @@ I'd like to also inform you that the logo you'll come up with may become our pro
 Please let me know if you have questions/clarifications.
 
 Looking forward to receiving your output by the end of tomorrow. If you have a duty with your current job, I will understand a delay in submission.
-
-# EMEW Labs Logo Proposal
-![Version 1](https://drive.google.com/file/d/1D3ozhKHPRqzCjlLpKj35U4qOVuM7Po6Y/view?usp=sharing)
-
