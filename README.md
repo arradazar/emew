@@ -1,4 +1,4 @@
-# emew
+# EMEW Labs
 Front End Examination
 
 With no other information supplied, please do the following tasks:
