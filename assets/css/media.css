@@ -23,18 +23,6 @@
     div, p, h2, h1, h5 {
         width: 100%!important;
     }
-    /* header .nav {
-        background: #111;
-        height: 100vh;
-        justify-content: flex-start;
-        align-items: flex-start;
-        padding: 20px 30px;
-        position: relative;
-        -webkit-transform: translateX(-250px);
-        transform: translateX(-250px);
-        -webkit-transition: all 200ms ease-in-out;
-        transition: all 200ms ease-in-out;
-    } */
     header .nav ul li {
         text-align: right;
         color: #FFFFFF;
@@ -220,8 +208,8 @@
         background: #FFFFFF;
     }
     .side-nav input:checked ~ span:nth-last-child(3) {
-    opacity: 0;
-    transform: rotate(0deg) scale(0.2, 0.2);
+        opacity: 0;
+        transform: rotate(0deg) scale(0.2, 0.2);
     }
     .side-nav input:checked ~ span:nth-last-child(2) {
     opacity: 1;
@@ -249,10 +237,11 @@
         float: unset;
         text-align: right;
         padding-bottom: 20px;
+        background: transparent!important;
     }
     #menuToggle input:checked ~ ul {
-    transform: scale(1.0, 1.0);
-    opacity: 1;
+        transform: scale(1.0, 1.0);
+        opacity: 1;
     }
 }
 
