@@ -27,7 +27,7 @@ Looking forward to receiving your output by the end of tomorrow. If you have a d
 # EMEW Labs Deliverables Directory
 
 # Logo (See both graphic and text option)
-`/designs/svg/` or `/designs/png/`
+`/designs/svg/` or `/designs/png/` or `/designs/sketch/`
 
 # Landing Page
 `/views/index.html`
