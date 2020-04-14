@@ -23,3 +23,11 @@ I'd like to also inform you that the logo you'll come up with may become our pro
 Please let me know if you have questions/clarifications.
 
 Looking forward to receiving your output by the end of tomorrow. If you have a duty with your current job, I will understand a delay in submission.
+
+# EMEW Labs Deliverables
+
+# Logo (See both graphic and text option)
+`/designs/svg/` or `/designs/png/`
+
+# Landing Page
+`/views/index.html`
